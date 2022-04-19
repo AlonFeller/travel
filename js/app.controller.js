@@ -23,7 +23,7 @@ function getPosition() {
     })
 }
 
-console.log('Omer & Alon was here', '6548')
+console.log('omer and alon are still here!!')
 
 function onAddMarker() {
     console.log('Adding a marker');
