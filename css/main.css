@@ -5,6 +5,10 @@ body {
     padding: 0;
 }
 
+header {
+    height: 10vh;
+}
+
 h1 {
     font-size: 50px;
 }
