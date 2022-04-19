@@ -23,7 +23,11 @@ function getPosition() {
     })
 }
 
+<<<<<<< HEAD
 console.log('omer and alon are still here!!')
+=======
+console.log('Omer & Alon was here', 6548)
+>>>>>>> aefd4c4180cf065ceaacebefc8bcb52ec10ee7f6
 
 function onAddMarker() {
     console.log('Adding a marker');
@@ -49,6 +53,7 @@ function onGetUserPos() {
             console.log('err!!!', err);
         })
 }
+
 function onPanTo() {
     console.log('Panning the Map');
     mapService.panTo(35.6895, 139.6917);
